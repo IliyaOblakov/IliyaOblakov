@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ---
 
-:man_technologist: I am a Full - Stack / more inclined to back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+:man_technologist: I am a Full-Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - :telescope: I have just completed a full-stack web developement course in Le Wagon London.
 
