@@ -74,5 +74,4 @@ Here are some ideas to get you started:
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-https://dev.to/itszed0/test-post-490g
 <!-- BLOG-POST-LIST:END -->
